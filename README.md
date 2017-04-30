@@ -1,4 +1,4 @@
-#Shopback CLI
+# Shopback CLI
 
 Assumptions:
 
@@ -6,4 +6,4 @@ Assumptions:
 * eslint is configured `npm run eslint`
 * unit test files are next to module files `npm run utest`
 * high level functional test are at ./test `npm run ftest`
-* in case of external resource (databases) functional test should be run in docker env.
+* in case of external resource (databases) functional test should be run in docker env
